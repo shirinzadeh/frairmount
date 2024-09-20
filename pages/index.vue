@@ -1,7 +1,7 @@
 <template>
   <main class="container mx-auto px-4 py-8 sm:py-12">
-    <h1 class="text-3xl sm:text-4xl font-bold mb-4 text-center text-emerald-900">Find Hotel Casino Review in Australia 2024</h1>
-    <p class="text-lg sm:text-xl mb-8 sm:mb-12 text-emerald-700 text-center max-w-3xl mx-auto">Discover the best casino hotels for your next exciting getaway! Luxurious accommodations and thrilling entertainment await you.</p>
+    <h1 class="text-3xl sm:text-4xl font-bold mb-4 text-center text-emerald-900">Explore Top-Rated Australian Casino Hotels for 2024</h1>
+    <p class="text-lg sm:text-xl mb-8 sm:mb-12 text-emerald-700 text-center max-w-3xl mx-auto">Uncover premium hotel locations combining opulent accommodations with exhilarating gaming experiences on your upcoming holiday.</p>
     <FilterBar @filter="filterHotels" class="mb-8" />
     <div class="space-y-8 sm:space-y-12">
       <HotelCard
@@ -103,9 +103,9 @@ watch(() => route.query.search, (newSearch) => {
 })
 
 useHead({
-  title: 'Casino Hotels - Find Your Perfect Stay',
+  title: 'FortuneFairmont - Find Your Perfect Stay',
   meta: [
-    { name: 'description', content: 'Discover the best casino hotels for your next exciting getaway. Luxurious accommodations and thrilling entertainment await!' },
+    { name: 'description', content: 'Discover the best FortuneFairmont for your next exciting getaway. Luxurious accommodations and thrilling entertainment await!' },
     { name: 'keywords', content: 'casino, hotel, resort, vacation, gambling, entertainment' },
   ]
 })

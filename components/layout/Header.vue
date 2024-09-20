@@ -1,7 +1,7 @@
 <template>
   <header class="bg-emerald-800 text-white py-4 shadow-md">
     <div class="container mx-auto px-4 flex flex-wrap justify-between items-center">
-      <NuxtLink to="/" class="text-2xl font-bold mb-2 sm:mb-0">Casino Hotels</NuxtLink>
+      <NuxtLink to="/" class="text-2xl font-bold mb-2 sm:mb-0">FortuneFairmont</NuxtLink>
       <div class="w-full sm:w-auto flex items-center justify-between sm:justify-end space-x-4">
         <div class="relative">
           <input

@@ -3,8 +3,8 @@
     <div class="container mx-auto px-4">
       <div class="flex flex-wrap justify-between">
         <div class="w-full md:w-1/4 mb-6 md:mb-0">
-          <h3 class="text-xl font-bold mb-2">Casino Hotels</h3>
-          <p>Find your perfect stay at the best casino hotels.</p>
+          <h3 class="text-xl font-bold mb-2">FortuneFairmont</h3>
+          <p>Uncover your dream getaway at top-tier casino locations. From expensive suites to international-class gaming floors, discover a number of optimum lodges that cater to both your comfort and pleasure. Whether you are a pro player or a curious newcomer, those extraordinary houses provide the perfect blend of relaxation and interesting entertainment.</p>
         </div>
         <div class="w-full md:w-1/4 mb-6 md:mb-0">
           <h3 class="text-xl font-bold mb-2">Quick Links</h3>
@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="mt-8 text-center">
-        <p>&copy; {{ new Date().getFullYear() }} Casino Hotels. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} FortuneFairmont. All rights reserved.</p>
       </div>
     </div>
       <!-- Toast Message -->
@@ -72,7 +72,6 @@ const subscribeNewsletter = async () => {
     email.value = ''
   } catch (error) {
     console.error('Error subscribing to newsletter:', error)
-    alert('An error occurred. Please try again.')
   } finally {
     isSubmitting.value = false
   }

@@ -4,7 +4,7 @@ Last note: [Current date].
 
 ## 1. Introduction
 
-Welcome to Casino Hotels. We are committed to protecting your information and your right to privacy. This Privacy Policy explains how we collect, use, disclose and protect information about you when you visit our website [casinohotels.com.au], including any other newsletters, information reporting channels, mobile websites, or in addition or (collectively) there is also a mobile application , a "place").
+Welcome to FortuneFairmont. We are committed to protecting your information and your right to privacy. This Privacy Policy explains how we collect, use, disclose and protect information about you when you visit our website [casinohotels.com.au], including any other newsletters, information reporting channels, mobile websites, or in addition or (collectively) there is also a mobile application , a "place").
 
 Please read this Privacy Policy carefully. If you do not agree with this Privacy Policy, please do not access the Site.
 
@@ -73,4 +73,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 - Phone [Your phone number].
 - Address : [your physical address] -->
 
-Thank you for trusting Casino Hotels with your personal information. We are committed to protecting your privacy and providing you with the best possible user experience.
+Thank you for trusting FortuneFairmont with your personal information. We are committed to protecting your privacy and providing you with the best possible user experience.

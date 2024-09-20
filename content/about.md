@@ -1,10 +1,10 @@
-# About Casino Hotels
+# About FortuneFairmont
 
-Welcome to Casino Hotels, your premier destination for finding the perfect blend of luxury accommodation and thrilling entertainment in the world of casino resorts.
+Welcome to FortuneFairmont, your premier destination for finding the perfect blend of luxury accommodation and thrilling entertainment in the world of casino resorts.
 
 ## Our mission
 
-At Casino Hotels we are committed to helping you find the best casino hotel experiences across Australia. Our mission is to provide detailed, honest and up-to-date information on the best casino hotels, ensuring you can make the right decision for your next adventurous getaway.
+At FortuneFairmont we are committed to helping you find the best casino hotel experiences across Australia. Our mission is to provide detailed, honest and up-to-date information on the best FortuneFairmont, ensuring you can make the right decision for your next adventurous getaway.
 
 ## What we offer
 
@@ -26,4 +26,4 @@ We are dedicated to maintaining the highest standards of integrity in our resear
 
 ## Contact us for more information
 We value your feedback and are always eager to hear about your experiences. If you have questions, suggestions, or would like to share your own casino and hotel information, please don’t hesitate to reach out via our contact form.
-Thank you for choosing Casino Hotels as your guide to the exciting world of casino resorts. We look forward to helping you have your perfect stay!
+Thank you for choosing FortuneFairmont as your guide to the exciting world of casino resorts. We look forward to helping you have your perfect stay!
