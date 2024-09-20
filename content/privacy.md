@@ -1,42 +1,76 @@
 # Privacy Policy
 
-Last updated: September 19, 2024
+Last note: [Current date].
 
-## Introduction
+## 1. Introduction
 
-Your privacy is important to us. This Privacy Policy explains how Casino Hotels ("we", "our", or "us") collects, uses, and protects your personal information when you use our website.
+Welcome to Casino Hotels. We are committed to protecting your information and your right to privacy. This Privacy Policy explains how we collect, use, disclose and protect information about you when you visit our website [casinohotels.com.au], including any other newsletters, information reporting channels, mobile websites, or in addition or (collectively) there is also a mobile application , a "place").
 
-## Information We Collect
+Please read this Privacy Policy carefully. If you do not agree with this Privacy Policy, please do not access the Site.
 
-We may collect the following types of information:
+## 2. Information Collection
 
-- **Personal Information**: Name, email address, and phone number when you contact us or sign up for our newsletter.
-- **Usage Data**: Information on how you use our website, including pages visited and time spent on each page.
-- **Cookies**: We use cookies to improve your browsing experience and analyze website traffic.
+We collect the information you provide us directly when you:
 
-## How We Use Your Information
+- Sign up for an account
+- Subscribe to our newsletter
+- Fill out a form
+- Participate in surveys or competitions
+- Interact with us through third party social media sites
+- Send user feedback
 
-We use the collected information for various purposes:
+The types of data we may collect include:
 
-- To provide and maintain our service
-- To notify you about changes to our service
-- To provide customer support
-- To gather analysis or valuable information so that we can improve our service
-- To monitor the usage of our service
-- To detect, prevent and address technical issues
+- name
+- email address
+- to give-address
+- telephone number
+- User order and behavior on our site
 
-## Data Protection
+## 3. How we use your information
 
-We implement a variety of security measures to maintain the safety of your personal information. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+We use your personal information for a variety of purposes, including:
 
-## Third-Party Links
+- Provide, operate and maintain our website
+- Improve, personalize and expand our website
+- Understand and analyze how users use our website
+- Develop new products, services, features and services
+- Keep in touch with you about developments, upcoming events, and updates
+- Sending you an email
+- Detect and prevent fraud
 
-Our website may contain links to other sites that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 4. Sharing your stories
 
-## Changes to This Privacy Policy
+We may share information about you in the following ways:
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "last updated" date.
+- Service providers who assist us in the operation of our website
+- Business partners with whom we provide goods or services
+- Companies involved in our family of companies
+- The third time you tell us to send them your information
+- law enforcement or government officials
 
-## Contact Us
+## 5. Cookies and Tracking Technologies
 
-If you have any questions about this Privacy Policy, please contact us at privacy@casinohotels.com.
+We use tracking technologies such as cookies to track activities on our website and to store certain information. You can instruct your browser to reject all cookies or to indicate when cookies are being sent.
+
+## 6. Third-Party Websites
+
+Our Site may contain links to other websites. We have no control over, and assume no responsibility for, the content, privacy policies or practices of any websites and services.
+
+## 7. Children's Privacy
+
+Our website is not intended for children under 18. We do not knowingly collect personal information from children under 18 years of age.
+
+## 8. Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting a new Privacy Policy on this page and updating the "Last Updated Date".
+
+<!-- ## 9. Contact -->
+
+<!-- If you have any questions about this Privacy Policy, please contact us: -->
+
+<!-- - Email: [privacy@casinohotels.com.au]
+- Phone [Your phone number].
+- Address : [your physical address] -->
+
+Thank you for trusting Casino Hotels with your personal information. We are committed to protecting your privacy and providing you with the best possible user experience.

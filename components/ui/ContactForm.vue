@@ -1,37 +1,43 @@
 <template>
-  <form @submit="onSubmit" class="space-y-6 max-w-md mx-auto">
+  <form @submit="onSubmit" class="space-y-4 max-w-md mx-auto">
     <div>
-      <label for="name" class="block text-sm font-medium text-gray-200">Name</label>
+      <label for="name" class="block text-sm font-medium mb-1">Name</label>
       <input
         id="name"
         v-model="name"
         type="text"
         :class="{ 'border-red-400': nameError }"
-        class="p-3 mt-1 block w-full rounded-md border-gray-600 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 bg-gray-700 text-white"
+        class="w-full text-emerald-800 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-yellow-500 placeholder-gray-400 transition-all duration-300 hover:bg-gray-200"
+        placeholder="Enter your name"
+        required
       />
       <span v-if="nameError" class="text-red-400 text-sm">{{ nameError }}</span>
     </div>
 
     <div>
-      <label for="email" class="block text-sm font-medium text-gray-200">Email</label>
+      <label for="email" class="block text-sm font-medium  mb-1">Email</label>
       <input
         id="email"
         v-model="email"
         type="email"
         :class="{ 'border-red-400': emailError }"
-        class="p-3 mt-1 block w-full rounded-md border-gray-600 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 bg-gray-700 text-white"
+        class="w-full text-emerald-800 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-yellow-500 placeholder-gray-400 transition-all duration-300 hover:bg-gray-200"
+        placeholder="Enter your email"
+        required
       />
       <span v-if="emailError" class="text-red-400 text-sm">{{ emailError }}</span>
     </div>
 
     <div>
-      <label for="message" class="block text-sm font-medium text-gray-200">Message</label>
+      <label for="message" class="block text-sm font-medium  mb-1">Message</label>
       <textarea
         id="message"
         v-model="message"
         rows="4"
         :class="{ 'border-red-400': messageError }"
-        class="p-3 mt-1 block w-full rounded-md border-gray-600 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 bg-gray-700 text-white"
+        class="w-full text-emerald-800 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-yellow-500 placeholder-gray-400 transition-all duration-300 hover:bg-gray-200"
+        placeholder="Enter your message"
+        required
       ></textarea>
       <span v-if="messageError" class="text-red-400 text-sm">{{ messageError }}</span>
     </div>
@@ -40,7 +46,7 @@
       <button
         type="submit"
         :disabled="isSubmitting"
-        class="w-full inline-flex justify-center items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 focus:ring-offset-gray-800"
+        class="w-full bg-gradient-to-r from-emerald-600 to-emerald-600 text-white px-4 py-3 rounded-lg hover:from-emerald-700 hover:to-emerald-700 transition-all duration-300 transform focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500"
       >
         {{ isSubmitting ? 'Submitting...' : 'Submit' }}
       </button>
@@ -49,13 +55,11 @@
 
   <!-- Toast Message -->
   <div v-if="showToast" class="fixed bottom-5 right-5 bg-green-600 text-white px-4 py-2 rounded shadow-lg">
-    Message submitted successfully!
+    Your message has been sent successfully!
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
-import { useField, useForm } from 'vee-validate'
 
 const { handleSubmit, resetForm } = useForm()
 

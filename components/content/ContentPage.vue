@@ -19,7 +19,11 @@
     text-align: center;
   }
   .prose h1, .prose h2, .prose h3, .prose strong {
-    color: white !important;
+    color: rgb(6, 78, 59) !important;
+  }
+
+  .prose p, .prose li {
+    color: rgb(4, 120, 87) !important;
   }
   
   .prose a {

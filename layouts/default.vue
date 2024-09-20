@@ -1,15 +1,9 @@
 <template>
-  <div class="min-h-screen bg-gray-900 text-white">
+  <div>
     <Header />
-    <slot />
+    <main class="container mx-auto px-4 py-8">
+      <slot />
+    </main>
     <Footer />
   </div>
 </template>
-
-<script lang="ts" setup>
-
-</script>
-
-<style>
-
-</style>

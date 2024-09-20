@@ -1,3 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html, body {
     background-color: rgb(17 24 39);
+}
+
+body {
+  @apply bg-emerald-100 text-emerald-900 transition-colors duration-300 ease-in-out;
+}
+
+.dark body {
+  @apply bg-emerald-900 text-emerald-100;
+}
+
+* {
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
 }
