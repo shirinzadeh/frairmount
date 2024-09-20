@@ -11,12 +11,21 @@
 </template>
 
 <script setup>
-import ContactForm from '~/components/ui/ContactForm.vue'
-
 useHead({
   title: 'Contact Us - FortuneFairmont',
   meta: [
-    { name: 'description', content: 'Get in touch with FortuneFairmont. We\'re here to answer any questions you may have about our services.' }
+    { name: 'description', content: 'Get in touch with FortuneFairmont. We\'re here to answer any questions you may have about our casino hotel reviews and services.' },
+    { name: 'keywords', content: 'contact FortuneFairmont, customer support, inquiries, casino hotel information' },
+    { property: 'og:title', content: 'Contact FortuneFairmont - We\'re Here to Help' },
+    { property: 'og:description', content: 'Have questions about casino hotels or need assistance? Contact FortuneFairmont for expert help and information.' },
+    { property: 'og:image', content: 'https://www.fortunefairmont.com/images/og-contact.jpg' },
+    { property: 'og:url', content: 'https://www.fortunefairmont.com/contact' },
+    { name: 'twitter:card', content: 'summary' },
+    { name: 'twitter:title', content: 'Contact FortuneFairmont - We\'re Here to Help' },
+    { name: 'twitter:description', content: 'Need assistance with casino hotel bookings or have questions? Reach out to FortuneFairmont today.' },
+  ],
+  link: [
+    { rel: 'canonical', href: 'https://www.fortunefairmont.com/contact' },
   ]
 })
 </script>

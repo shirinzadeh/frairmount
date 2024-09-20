@@ -103,10 +103,21 @@ watch(() => route.query.search, (newSearch) => {
 })
 
 useHead({
-  title: 'FortuneFairmont - Find Your Perfect Stay',
+  title: 'FortuneFairmont - Best Casino Hotels & Resorts in Australia 2024',
   meta: [
-    { name: 'description', content: 'Discover the best FortuneFairmont for your next exciting getaway. Luxurious accommodations and thrilling entertainment await!' },
-    { name: 'keywords', content: 'casino, hotel, resort, vacation, gambling, entertainment' },
+    { name: 'description', content: 'Discover top-rated FortuneFairmont casino hotels in Australia. Unbiased reviews, exclusive deals, and insider tips for the ultimate luxury casino resort experience.' },
+    { name: 'keywords', content: 'FortuneFairmont, casino hotels, Australia, hotel reviews, gambling resorts, luxury accommodation' },
+    { property: 'og:title', content: 'FortuneFairmont - Best Casino Hotels in Australia 2024' },
+    { property: 'og:description', content: 'Find your perfect casino hotel experience with FortuneFairmont. Luxury accommodations, world-class gaming, and unforgettable entertainment await!' },
+    // It's what will be displayed when your page is shared on social media platforms.
+    // { property: 'og:image', content: 'https://www.fortunefairmont.com/images/og-home.jpg' },
+    { property: 'og:url', content: 'https://www.fortunefairmont.com' },
+    { name: 'twitter:card', content: 'summary_large_image' },
+    { name: 'twitter:title', content: 'FortuneFairmont - Best Casino Hotels in Australia 2024' },
+    { name: 'twitter:description', content: 'Discover top-rated casino hotels with FortuneFairmont. Expert reviews, exclusive deals, and luxury experiences await!' },
+  ],
+  link: [
+    { rel: 'canonical', href: 'https://www.fortunefairmont.com' },
   ]
 })
 </script>
